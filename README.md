@@ -13,6 +13,8 @@ sudo apt-get install dsniff
 ```
 ### Fedora
 ```
+sudo yum install nmap
+sudo yum install dsniff
 ```
 ### Python
 ```
