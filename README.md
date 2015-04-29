@@ -31,3 +31,5 @@ Options:
   -e EXCLUDE  specify ip[s] to be excluded seperated by comma
 
 ```
+Here is the explanation of tool:
+https://deshmukhsuraj.wordpress.com/2015/04/25/speedup-a-lan-internet-speeding-up-tool/
